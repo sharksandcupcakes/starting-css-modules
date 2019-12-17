@@ -22,7 +22,7 @@
   },
   "dependencies": {
     "autoprefixer": "^6.6.0",
-    "classnames": "^2.2.5",
+    "classnames": "^2.2.6",
     "flexboxgrid": "^6.3.1"
   }
 }
